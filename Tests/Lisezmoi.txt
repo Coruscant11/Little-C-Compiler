@@ -1,0 +1,8 @@
+Ce répertoire contient tous les fichiers tests miniC qui seront utilisés pour évaluer votre compilateur.
+Basez-vous donc sur ces programmes C pour tester votre compilateur.
+
+- exécutez votre compilateur mongcc sur un fichier de test comme add.c : si votre compilateur est bon, un code nommé add.dot est généré
+- ensuite, utilisez un outil de visualisation de graphe pour voir le résultat, ou simplement produisez un fichier pdf avec la commande: dot -Tpdf add.dot -o add_.pdf
+
+Si votre compilateur est vraiment bon, il génèrera du code DOT correct pour tous les programmes tests.
+S.T.
