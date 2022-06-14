@@ -5,7 +5,7 @@
 ## Utilisation
 
 #### Pour compiler le programme, il suffit d'exécuter compiler.sh avec la commande "./compiler.sh" en se trouvant dans le dossier racine du projet.
-#### Un fichier éxécutable "miniC" sera créé.
+#### Un fichier exécutable "miniC" sera créé.
 #### Ensuite, l'utilisation du programme s'effectue comme ceci :
 
 ```
